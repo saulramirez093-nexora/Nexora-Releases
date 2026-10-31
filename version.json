@@ -1,15 +1,16 @@
 {
   "product": "Nexora",
   "packageName": "tv.nexora.launcher",
-  "versionName": "1.5.0",
-  "versionCode": 57,
+  "versionName": "1.5.1",
+  "versionCode": 58,
   "minAndroidSdk": 26,
-  "apkFileName": "NexoraTV.apk",
-  "apkUrl": "https://github.com/saulramirez093-nexora/Nexora-Releases/releases/latest/download/NexoraTV.apk",
-  "sha256": "88e5c8400c429394f401e436811594ae40dde6e8c994f08ccc9b97f8b7f319d8",
+  "apkFileName": "app-release.apk",
+  "apkUrl": "https://github.com/saulramirez093-nexora/Nexora-Releases/releases/latest/download/app-release.apk",
+  "sha256": "a80d4f4ea72ebdd5232be9ce9515b012b23559c6f4f2ecca4ed6668577cf85db",
   "signingCertificateSha256": "76e7bfae79b0f6642fef79bfeae0857226b437dcb9a3155dfe7e7c2cd7e3e5d8",
   "changelog": [
-    "Versión base verificada para iniciar el canal de distribución de Nexora.",
-    "El APK coincide byte por byte con la versión 1.5.0 instalada en el Chromecast."
+    "Primera actualización de prueba del canal oficial de Nexora.",
+    "Versión 1.5.1 con código 58.",
+    "APK y certificado de firma verificados mediante GitHub Actions."
   ]
 }

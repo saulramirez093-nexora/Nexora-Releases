@@ -1,16 +1,16 @@
 {
   "product": "Nexora",
   "packageName": "tv.nexora.launcher",
-  "versionName": "1.5.1",
-  "versionCode": 58,
+  "versionName": "1.5.2",
+  "versionCode": 59,
   "minAndroidSdk": 26,
   "apkFileName": "app-release.apk",
   "apkUrl": "https://github.com/saulramirez093-nexora/Nexora-Releases/releases/latest/download/app-release.apk",
-  "sha256": "a80d4f4ea72ebdd5232be9ce9515b012b23559c6f4f2ecca4ed6668577cf85db",
+  "sha256": "48b8fcd2a77a15e4f4bbda4a786ebeb2ad5234b5af9d3f43d749bf2ea3cf549d",
   "signingCertificateSha256": "76e7bfae79b0f6642fef79bfeae0857226b437dcb9a3155dfe7e7c2cd7e3e5d8",
   "changelog": [
-    "Primera actualización de prueba del canal oficial de Nexora.",
-    "Versión 1.5.1 con código 58.",
+    "Corrección de navegación adaptativa entre Wi-Fi, Entradas y el clima.",
+    "Compatibilidad con dispositivos donde las entradas HDMI no están disponibles.",
     "APK y certificado de firma verificados mediante GitHub Actions."
   ]
 }

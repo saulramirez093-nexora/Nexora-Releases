@@ -1,16 +1,16 @@
 {
   "product": "Nexora",
   "packageName": "tv.nexora.launcher",
-  "versionName": "1.5.2",
-  "versionCode": 59,
+  "versionName": "1.5.13",
+  "versionCode": 84,
   "minAndroidSdk": 26,
   "apkFileName": "app-release.apk",
-  "apkUrl": "https://github.com/saulramirez093-nexora/Nexora-Releases/releases/latest/download/app-release.apk",
-  "sha256": "48b8fcd2a77a15e4f4bbda4a786ebeb2ad5234b5af9d3f43d749bf2ea3cf549d",
+  "apkUrl": "https://github.com/saulramirez093-nexora/Nexora-Releases/releases/download/v1.5.13/app-release.apk",
+  "sha256": "29a4d459c4aa37704f85c30281fba37ac52c4c74e3428987c2d7b3f931fd0a27",
   "signingCertificateSha256": "76e7bfae79b0f6642fef79bfeae0857226b437dcb9a3155dfe7e7c2cd7e3e5d8",
   "changelog": [
-    "Corrección de navegación adaptativa entre Wi-Fi, Entradas y el clima.",
-    "Compatibilidad con dispositivos donde las entradas HDMI no están disponibles.",
-    "APK y certificado de firma verificados mediante GitHub Actions."
+    "Centro deportivo con agenda de eventos y partidos.",
+    "Mejoras visuales y de navegación en las cápsulas superiores.",
+    "Actualizaciones y correcciones de estabilidad para Android TV y Google TV."
   ]
 }

@@ -1,16 +1,16 @@
 {
   "product": "Nexora",
   "packageName": "tv.nexora.launcher",
-  "versionName": "1.5.14",
-  "versionCode": 85,
+  "versionName": "1.5.15",
+  "versionCode": 86,
   "minAndroidSdk": 26,
   "apkFileName": "app-release.apk",
-  "apkUrl": "https://github.com/saulramirez093-nexora/Nexora-Releases/releases/download/v1.5.14/app-release.apk",
-  "sha256": "9d1ff459a6391fcafae77607994e2bc7b785fe43fa814e02008c7f698f8b009a",
+  "apkUrl": "https://github.com/saulramirez093-nexora/Nexora-Releases/releases/download/v1.5.15/app-release.apk",
+  "sha256": "475fdf972a0f3dc75b0a26d0619b29e3ccd7c943171a0664ea9605219887336f",
   "signingCertificateSha256": "76e7bfae79b0f6642fef79bfeae0857226b437dcb9a3155dfe7e7c2cd7e3e5d8",
   "changelog": [
-    "Centro deportivo: actualización automática al abrir la ventana, mejoras en eventos y encuentros de fútbol, y seguimiento de marcadores en vivo.",
-    "Interfaz: mejoras visuales, transparencia y navegación con control remoto.",
-    "Estabilidad: correcciones y optimizaciones generales."
+    "Configuración inicial inteligente: detección independiente de Botón Inicio y Nexora; muestra solo los servicios que faltan y evita repetir avisos innecesarios.",
+    "Integración con Nexora Installer para facilitar la activación de ambos servicios de accesibilidad.",
+    "Mejoras en la experiencia de configuración y estabilidad general."
   ]
 }

@@ -1,16 +1,17 @@
 {
   "product": "Nexora",
   "packageName": "tv.nexora.launcher",
-  "versionName": "1.5.15",
-  "versionCode": 86,
+  "versionName": "1.5.19",
+  "versionCode": 90,
   "minAndroidSdk": 26,
   "apkFileName": "app-release.apk",
-  "apkUrl": "https://github.com/saulramirez093-nexora/Nexora-Releases/releases/download/v1.5.15/app-release.apk",
-  "sha256": "475fdf972a0f3dc75b0a26d0619b29e3ccd7c943171a0664ea9605219887336f",
+  "apkUrl": "https://github.com/saulramirez093-nexora/Nexora-Releases/releases/download/v1.5.19/app-release.apk",
+  "sha256": "0b4b7dbc3674fbf399a27161401d64b0675be88e5069fbb8096c5f5b82b095c2",
   "signingCertificateSha256": "76e7bfae79b0f6642fef79bfeae0857226b437dcb9a3155dfe7e7c2cd7e3e5d8",
   "changelog": [
-    "Configuración inicial inteligente: detección independiente de Botón Inicio y Nexora; muestra solo los servicios que faltan y evita repetir avisos innecesarios.",
-    "Integración con Nexora Installer para facilitar la activación de ambos servicios de accesibilidad.",
-    "Mejoras en la experiencia de configuración y estabilidad general."
+    "Corrección del widget del clima: se ajustó la posición de la cápsula de temperatura máxima y mínima.",
+    "Corrección visual: se solucionó el recorte de los bordes superior e inferior de la cápsula.",
+    "Ajustes de distribución: se optimizaron los espacios entre la temperatura actual, la ciudad y la información meteorológica.",
+    "Mejoras en la interfaz: se refinó la distribución de los elementos del widget para conseguir una apariencia más equilibrada y compacta."
   ]
 }

@@ -1,0 +1,14 @@
+{
+  "product": "Nexora Installer",
+  "packageName": "tv.nexora.installer",
+  "versionName": "0.6.4",
+  "versionCode": 10,
+  "minAndroidSdk": 26,
+  "apkUrl": "https://github.com/saulramirez093-nexora/Nexora-Releases/releases/download/installer-v0.6.4/Nexora-Installer-0.6.4.apk",
+  "sha256": "4c2fadddb74648a5eb7d17e6e573a26b0ed7e1231df1e8f4aee15d3602fa5e49",
+  "signingCertificateSha256": "ed0ef93717fe95aef034c111f4479835a30f709a2c1b49146d8443b5be9c17ad",
+  "changelog": [
+    "Actualizador automático integrado.",
+    "Verificación de paquete, versión, SHA-256 y certificado."
+  ]
+}

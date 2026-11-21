@@ -6,7 +6,7 @@
   "minAndroidSdk": 26,
   "apkFileName": "app-release.apk",
   "apkUrl": "https://github.com/saulramirez093-nexora/Nexora-Releases/releases/download/v1.6.2/app-release.apk",
-  "sha256": "7ff95922fd1b4d8fc5b645cc343fc9cb829ae45553c810d90c45828b4535cc26",
+  "sha256": "eae2726611da0fe8b4ef87f28b9fde6c91aa385ff2e42556380141f001be8646",
   "signingCertificateSha256": "76e7bfae79b0f6642fef79bfeae0857226b437dcb9a3155dfe7e7c2cd7e3e5d8",
   "changelog": [
     "Nueva versión estable de Nexora TV 1.6.2 (código 94)."

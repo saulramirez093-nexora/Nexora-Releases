@@ -1,14 +1,17 @@
 {
   "product": "Nexora Installer",
   "packageName": "tv.nexora.installer",
-  "versionName": "0.6.7",
-  "versionCode": 13,
+  "versionName": "0.7.0",
+  "versionCode": 14,
   "minAndroidSdk": 26,
-  "apkUrl": "https://github.com/saulramirez093-nexora/Nexora-Releases/releases/download/installer-v0.6.7/Nexora-Installer-0.6.7.apk",
-  "sha256": "36e94e11c05162d02ae14a76eafff2b6d82bbb7e93579e046cad6ca7b8b6ada9",
+  "apkUrl": "https://github.com/saulramirez093-nexora/Nexora-Releases/releases/download/installer-v0.7.0/Nexora-Installer-0.7.0.apk",
+  "sha256": "41e75a4246be99e9ae0504e3ee832b1e1545ea793912531a1439d3348a70b0f9",
   "signingCertificateSha256": "ed0ef93717fe95aef034c111f4479835a30f709a2c1b49146d8443b5be9c17ad",
   "changelog": [
-    "Actualizador automático integrado.",
-    "Verificación de paquete, versión, SHA-256 y certificado."
+    "Rediseño completo con un estilo más limpio y profesional.",
+    "Nuevo icono de la aplicación.",
+    "Tutorial de inicio a pantalla completa.",
+    "Aviso de actualización al abrir la aplicación.",
+    "Correcciones en guías, consolas y lista de aplicaciones."
   ]
 }

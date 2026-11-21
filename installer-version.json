@@ -1,13 +1,14 @@
 {
   "product": "Nexora Installer",
   "packageName": "tv.nexora.installer",
-  "versionName": "0.7.4",
-  "versionCode": 18,
+  "versionName": "0.7.5",
+  "versionCode": 19,
   "minAndroidSdk": 26,
-  "apkUrl": "https://github.com/saulramirez093-nexora/Nexora-Releases/releases/download/installer-v0.7.4/Nexora-Installer-0.7.4.apk",
-  "sha256": "c29977d889c7a16b166558808481fd52d68235f4b2bf627d8078aa3f82ea71cc",
+  "apkUrl": "https://github.com/saulramirez093-nexora/Nexora-Releases/releases/download/installer-v0.7.5/Nexora-Installer-0.7.5.apk",
+  "sha256": "e5d81c6bbd23dc81170162a4f7e8e3d9139bd768728666d53c8298eaed3da7a4",
   "signingCertificateSha256": "ed0ef93717fe95aef034c111f4479835a30f709a2c1b49146d8443b5be9c17ad",
   "changelog": [
+    "Emparejamiento guiado: los campos se activan cuando el televisor es detectado; si no, puedes escribir los datos manualmente.",
     "Conexión más fiable: el emparejamiento se recupera tras un código incorrecto y siempre usa el puerto actual del televisor.",
     "Nuevo tema oscuro: sigue el modo de tu teléfono o elígelo manualmente en Ajustes → Apariencia.",
     "Conexión más fácil: detecta automáticamente la IP y los puertos del televisor; solo escribes el código de emparejamiento.",

@@ -1,17 +1,17 @@
 {
   "product": "Nexora Installer",
   "packageName": "tv.nexora.installer",
-  "versionName": "0.7.1",
-  "versionCode": 15,
+  "versionName": "0.7.2",
+  "versionCode": 16,
   "minAndroidSdk": 26,
-  "apkUrl": "https://github.com/saulramirez093-nexora/Nexora-Releases/releases/download/installer-v0.7.1/Nexora-Installer-0.7.1.apk",
-  "sha256": "084fe85b25ee3331470f09bb2885f952b08094fccb517397c07830580d7842d8",
+  "apkUrl": "https://github.com/saulramirez093-nexora/Nexora-Releases/releases/download/installer-v0.7.2/Nexora-Installer-0.7.2.apk",
+  "sha256": "521704c729f6b857c31da8d4221e2e61ebc6b663a5efd6cea581bda07867ed0c",
   "signingCertificateSha256": "ed0ef93717fe95aef034c111f4479835a30f709a2c1b49146d8443b5be9c17ad",
   "changelog": [
+    "Conexión más fácil: detecta automáticamente la IP y los puertos del televisor; solo escribes el código de emparejamiento.",
     "Rediseño completo con un estilo más limpio y profesional.",
     "Nuevo icono de la aplicación.",
     "Tutorial de inicio a pantalla completa.",
-    "Aviso de actualización al abrir la aplicación.",
-    "Correcciones en guías, consolas y lista de aplicaciones."
+    "Aviso de actualización al abrir la aplicación."
   ]
 }

@@ -1,14 +1,14 @@
 {
   "product": "Nexora",
   "packageName": "tv.nexora.launcher",
-  "versionName": "1.6.2",
-  "versionCode": 94,
+  "versionName": "1.6.3",
+  "versionCode": 95,
   "minAndroidSdk": 26,
   "apkFileName": "app-release.apk",
-  "apkUrl": "https://github.com/saulramirez093-nexora/Nexora-Releases/releases/download/v1.6.2/app-release.apk",
-  "sha256": "eae2726611da0fe8b4ef87f28b9fde6c91aa385ff2e42556380141f001be8646",
+  "apkUrl": "https://github.com/saulramirez093-nexora/Nexora-Releases/releases/download/v1.6.3/app-release.apk",
+  "sha256": "555e57edfc0a7f8ec5c2c59e273da5864794fbb70bc092293f693f66fb77891a",
   "signingCertificateSha256": "76e7bfae79b0f6642fef79bfeae0857226b437dcb9a3155dfe7e7c2cd7e3e5d8",
   "changelog": [
-    "Nueva versión estable de Nexora TV 1.6.2 (código 94)."
+    "Nueva versión estable de Nexora TV 1.6.3 (código 95)."
   ]
 }

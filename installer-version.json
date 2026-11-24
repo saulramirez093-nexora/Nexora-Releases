@@ -1,13 +1,14 @@
 {
   "product": "Nexora Installer",
   "packageName": "tv.nexora.installer",
-  "versionName": "0.7.10",
-  "versionCode": 24,
+  "versionName": "0.7.11",
+  "versionCode": 25,
   "minAndroidSdk": 26,
-  "apkUrl": "https://github.com/saulramirez093-nexora/Nexora-Releases/releases/download/installer-v0.7.10/Nexora-Installer-0.7.10.apk",
-  "sha256": "0d5486a020b0eae234eb30931eb02302023f44b42d51e40701ffd1ed529aea34",
+  "apkUrl": "https://github.com/saulramirez093-nexora/Nexora-Releases/releases/download/installer-v0.7.11/Nexora-Installer-0.7.11.apk",
+  "sha256": "495df46bd0af239c141fdf69c1184e1e1958fe679cde6f27b049263aad89322c",
   "signingCertificateSha256": "ed0ef93717fe95aef034c111f4479835a30f709a2c1b49146d8443b5be9c17ad",
   "changelog": [
+    "Establecer Nexora como inicio: si la pantalla de recuperación de Google TV se interpone, se desactiva solo ese componente (con aviso) y Restaurar lo reactiva.",
     "Establecer Nexora como inicio: ahora espera y reintenta cuando el televisor tarda en reconocer el cambio, en lugar de revertirlo al primer intento.",
     "Administración reorganizada: el paso para usar Nexora como inicio queda arriba y la prueba final aparece tras instalar.",
     "Un solo botón para restaurar el launcher original.",
